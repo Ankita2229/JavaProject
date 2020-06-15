@@ -39,7 +39,7 @@
 		<spring.security.oauth2.version>2.0.7.RELEASE</spring.security.oauth2.version>
 		<mandrill.version>0.0.5</mandrill.version>
 		<javax.mail.verison>1.4.7</javax.mail.verison>
-		<hibernate-validator-version>5.2.4.Final</hibernate-validator-version>
+		<hibernate-validator-version>5.3.5.Final</hibernate-validator-version>
 		<org.mapstruct.version>1.0.0.Final</org.mapstruct.version>
 		<poi.version>3.14</poi.version>
 	</properties>
