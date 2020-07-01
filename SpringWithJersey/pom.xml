@@ -32,7 +32,7 @@
 		<mime-util.version>2.1.1</mime-util.version>
 		<lombok.version>1.14.4</lombok.version>
 		<jackson-joda-datatype.version>2.5.4</jackson-joda-datatype.version>
-		<mysql-connector-java.version>5.1.36</mysql-connector-java.version>
+		<mysql-connector-java.version>8.0.16</mysql-connector-java.version>
 		<spring-data-jpa.version>1.9.0.RELEASE</spring-data-jpa.version>
 		<hibernate.version>4.2.1.Final</hibernate.version>
 		<spring.security.version>3.2.8.RELEASE</spring.security.version>
